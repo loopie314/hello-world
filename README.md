@@ -1,1 +1,1 @@
-Hello, my name is Hui Ting
+Hello, my name is Hui Ting.
